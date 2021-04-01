@@ -13,7 +13,7 @@ P.S：`Composition-Movement`和`Work-Part`这两组对Roon来说是等价的，�
 
 使用：
 
-1. 安装mutagen包
+1. 安装[mutagen包](https://mutagen.readthedocs.io)
 2. `python3 ./flac_add_composition.py flac文件路径`
 
 基于python 3.9.2开发。
